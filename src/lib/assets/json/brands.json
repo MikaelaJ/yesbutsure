@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "users": [
+            {
+                "id": 1,
+                "email": "user1@example.com",
+                "name": "User 1"
+            },
+            {
+                "id": 2,
+                "email": "user2@example.com",
+                "name": "User 2"
+            }
+        ],
+        "description": "Description 1",
+        "brandName": "Artist 1",
+        "title": "Brand 1",
+        "cards": [
+            {
+                "id": 1,
+                "title": "Post 1",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "published": true,
+                "brandId": 1,
+                "image": "https://example.com/image1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "users": [
+            {
+                "id": 1,
+                "email": "mikaela@example.com",
+                "name": "Mikaela"
+            },
+            {
+                "id": 2,
+                "email": "casper@example.com",
+                "name": "Casper"
+            }
+        ],
+        "description": "Description 2",
+        "brandName": "Artist 2",
+        "title": "Brand 2",
+        "cards": [
+            {
+                "id": 2,
+                "title": "Post 2",
+                "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "published": false,
+                "brandId": 2,
+                "image": "https://example.com/image2.jpg"
+            }
+        ]
+    }
+]

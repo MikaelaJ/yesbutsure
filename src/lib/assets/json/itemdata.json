@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Hector1",
+        "content": "En skyltdocka som är en omgjord till en lampa",
+        "published": true,
+        "brandId": 1,
+        "image": "hector_2"
+    },
+    {
+        "id": 2,
+        "title": "Post 2",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "published": false,
+        "brandId": 2,
+        "image": "hector_1"
+    },
+    {
+        "id": 3,
+        "title": "Post 3",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "published": true,
+        "brandId": 2,
+        "image": "hector_1"
+    },
+    {
+        "id": 4,
+        "title": "Post 3",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "published": true,
+        "brandId": 2,
+        "image": "hector_1"
+    },
+    {
+        "id": 5,
+        "title": "Post 3",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "published": true,
+        "brandId": 2,
+        "image": "hector_1"
+    }
+]
