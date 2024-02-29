@@ -33,7 +33,7 @@
 		<div class="flex-col text-center mt-12">
 			<h1 class="bg-primary-ybs-darker dark:bg-secondary-ybs p-6 font-serif text-secondary-ybs dark:text-primary-ybs-darker">Yes But Sure</h1>
 			<div class="flex justify-center">
-				<p class="flex text-black-ybs dark:text-primary-ybs-lighter my-6 px-12 max-w-3xl">Beskrivning</p>
+				<p class="flex text-black-ybs dark:text-primary-ybs-lighter my-6 px-12 max-w-3xl">En syskonduo som brinner för att skapa och experimentera. Designintresset är stort och en extra förkärlek till liten udda och personlig touch. Det går utmärkt att få en specialdesignad lampa, skriv till oss så kan vi säkert lösa det.  </p>
 			</div>
 		</div>
 		<Post card={data.slice(0, 3)} />

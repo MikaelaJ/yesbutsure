@@ -1,27 +1,27 @@
 [
     {
         "id": 1,
-        "title": "Hector1",
-        "content": "En skyltdocka som är en omgjord till en lampa",
+        "title": "Aston & Cicre",
+        "content": "Dessa två pryder en tatueringsstudio i Ludvika. En perfect touch av quirkyness och stil. Denna vara är redan såld.",
         "published": true,
         "brandId": 1,
-        "image": "hector_2"
+        "image": "aston_circe"
     },
     {
         "id": 2,
-        "title": "Post 2",
-        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "published": false,
+        "title": "Hector",
+        "content": "Hector är stilren med klass, för att inte tala om hans magmuskler. Denna vara pryder redan ett hem någonstans i Sverige.",
+        "published": true,
         "brandId": 2,
         "image": "hector_1"
     },
     {
         "id": 3,
-        "title": "Post 3",
-        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "Quentin",
+        "content": "Denna manliga skönhet är en av våra mest populära varor. Han är redan såld.",
         "published": true,
         "brandId": 2,
-        "image": "hector_1"
+        "image": "quentin"
     },
     {
         "id": 4,

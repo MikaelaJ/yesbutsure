@@ -2,6 +2,8 @@
 	import type { Brand, Person, Item } from './models/interface';
 	import hector1 from '$lib/assets/images/yesbutsure/Hector_1.jpg';
 	import hector2 from '$lib/assets/images/yesbutsure/Hector_2.jpg';
+	import astoncirce from '$lib/assets/images/yesbutsure/aston_circe.png';
+	import quentin from '$lib/assets/images/yesbutsure/quentin.png';
 
 	/* export let persons: Person[]; */
 	export let card: Item[];
@@ -23,6 +25,12 @@
 				break;
 			case 'hector_2':
 				return hector2;
+				break;
+			case 'aston_circe':
+				return astoncirce;
+				break;
+			case 'quentin':
+				return quentin;
 				break;
 
 			default:
@@ -50,8 +58,8 @@
 					<p class="italic text-black text-sm text-black-ybs dark:text-primary-ybs-lighter">
 						{content}
 					</p>
-					<p class="text-sm text-black-ybs">{content}</p>
-					<p class="italic text-secondary-ybs">{title}</p>
+					<!-- <p class="text-sm text-black-ybs">{content}</p>
+					<p class="italic text-secondary-ybs">{title}</p> -->
 				</div>
 			</div>
 		{/each}
